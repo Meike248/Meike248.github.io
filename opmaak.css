@@ -4,6 +4,7 @@ body{
     }
     div{
         background-color: aquamarine;
+        opacity: 0,3;
     }
     p {
         background-color: beige;
