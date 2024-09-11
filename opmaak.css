@@ -2,7 +2,10 @@ body{
     h1{
         background-color: aqua;
     }
-    h2{
+    div{
         background-color: aquamarine;
+    }
+    p {
+        background-color: beige;
     }
 }
