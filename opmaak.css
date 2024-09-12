@@ -12,4 +12,5 @@ body{
     body {
         background-color: lightblue;
       }
+      p.dotted {outline-style: dotted;}
 }
