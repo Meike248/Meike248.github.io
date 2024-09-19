@@ -1,13 +1,13 @@
 body{
     h1{
-        background-color: aqua;
+        background-color: rgb(175, 180, 180);
     }
     div{
-        background-color: aquamarine;
+        background-color: rgb(120, 131, 127);
         opacity: 0,3;
     }
     p {
-        background-color: beige;
+        background-color: rgb(135, 135, 130);
     }
     body {
         background-color: lightblue;
