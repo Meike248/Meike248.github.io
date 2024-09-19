@@ -1,4 +1,9 @@
 body{
+    ul {
+        list-style-type: none;
+        margin: 19;
+        padding: 20;
+      }
     h1{
         background-color: rgb(175, 180, 180);
     }
@@ -14,13 +19,9 @@ body{
       }
       p.dotted {outline-style: dotted;}
       
-    {background-color;
 
-        ul {
-            list-style-type: none;
-            margin: 110;
-            padding: 100;
-          }
+
+      
       
       li a {
         display: block;
