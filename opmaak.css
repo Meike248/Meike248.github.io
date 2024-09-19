@@ -14,15 +14,13 @@ body{
       }
       p.dotted {outline-style: dotted;}
       
-      {background-color: aqua;}
+    {background-color;
 
-      body 
-      ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        width: 60px;
-      }
+        ul {
+            list-style-type: none;
+            margin: 10;
+            padding: 16;
+          }
       
       li a {
         display: block;
