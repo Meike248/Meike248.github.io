@@ -14,7 +14,7 @@ body{
       }
       p.dotted {outline-style: dotted;}
       
-      body {background-color: aqua;}
+      {background-color: aqua;}
 
       ul {
         list-style-type: none;
