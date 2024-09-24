@@ -5,6 +5,7 @@ body{
         padding: 0;
         width: 60px;
       }
+      p.dashed {border-style: dashed;}
       
       li a {
         display: block;
