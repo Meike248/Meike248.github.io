@@ -20,7 +20,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #f2e1e7;
+    background-color: #e8afc2;
   }
   
   li {
@@ -44,7 +44,7 @@ ul {
   }
    /* Add a black right border to all list items, except the last item (last-child) */
 li {
-  border-right: 1px solid #000000;
+  border-right: 1px solid #807d7d;
 }
 
 li:last-child {
