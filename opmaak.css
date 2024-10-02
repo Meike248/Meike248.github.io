@@ -13,14 +13,14 @@ ul {
   a {
     display: block;
     padding: 8px;
-    background-color: #cb9191;
+    background-color: #e8afc2;
   }
   ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #aa7575;
+    background-color: #e8afc2;
   }
   
   li {
