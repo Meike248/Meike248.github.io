@@ -40,11 +40,11 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: #e8b7b7;
+    background-color: #000000;
   }
    /* Add a black right border to all list items, except the last item (last-child) */
 li {
-  border-right: 1px solid #bbb;
+  border-right: 1px solid #000000;
 }
 
 li:last-child {
