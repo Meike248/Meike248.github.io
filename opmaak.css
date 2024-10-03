@@ -55,6 +55,18 @@ li:last-child {
   background-size: 100px 80px;
   background-repeat: no-repeat;
 }
+#div1 {
+  background: url(img_flower.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#div2 {
+  background: url(img_flower.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
    
    
    /*ul {
