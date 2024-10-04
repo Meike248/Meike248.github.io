@@ -38,7 +38,7 @@ body {background-color: rgb(239, 224, 238);
   }
    /* Add a black right border to all list items, except the last item (last-child) */
 li {
-  border-right: 1px solid #807d7d;
+  border-right: 1px solid #cf2828;
 }
 
 li:last-child {
