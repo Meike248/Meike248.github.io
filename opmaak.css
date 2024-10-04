@@ -1,11 +1,7 @@
 body {background-color: rgb(239, 224, 238);
 }
 
-ul {
-    list-style-type: none;
-    margin: 20;
-    padding: 20;
-  }
+
   li {
     float: left;
   }
