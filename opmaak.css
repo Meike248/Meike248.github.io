@@ -18,14 +18,14 @@ body {background-color: rgb(239, 216, 237);
     overflow: hidden;
     background-color: #eac4e3;
   }
-  
+  /*Hier onder is de kleur van de letters in mijn menu */
   li {
     float: left;
   }
   
   li a {
     display: block;
-    color: rgb(168, 59, 59);
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -44,5 +44,6 @@ li {
 li:last-child {
   border-right: none;
 }
+/* Hier boven is de kleur van de lijntjes in mijn menu*/
 
    
